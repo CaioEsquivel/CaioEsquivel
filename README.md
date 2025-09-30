@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! Eu sou Caio Esquivel e atualmente estou focado em dominar o Front-End, incluindo habilidades como CSS, JavaScript, Design, UI e UX.</h3>
+<h3 align="center">Hi 👋! I’m Caio Esquivel, currently focused on mastering Front-End development, with a strong emphasis on JavaScript. I’ve been studying CSS, Design, UI, and UX, and I’m now starting to take my first steps into React.</h3>
 
 ###
 

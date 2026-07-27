@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! I’m Caio Esquivel, currently focused on mastering Front-End development, with a strong emphasis on JavaScript. I’ve been studying CSS, Design, UI, and UX, and I’m now starting to take my first steps into React.</h3>
+<h3 align="center">Olá 👋! Eu sou Caio Esquivel, Desenvolvedor Front-End focado na criação de aplicações web modernas, responsivas e com boa experiência de usuário. Atualmente, estou aprofundando meus conhecimentos em JavaScript e React, enquanto continuo evoluindo minhas habilidades em CSS, Design de Interfaces (UI) e Experiência do Usuário (UX). Gosto de criar interfaces limpas, resolver problemas e transformar ideias em experiências digitais funcionais.</h3>
 
 ###
 

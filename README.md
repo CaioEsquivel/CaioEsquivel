@@ -21,7 +21,6 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
 </div>
